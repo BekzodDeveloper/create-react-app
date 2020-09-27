@@ -1,18 +1,7 @@
 h1{
-    color: cornflowerblue;
+    color: white;
 }
 
-h2{
-    color: deeppink;
-}
-
-h3{
-    color: darkviolet;
-}
-
-p{
-    color: maroon;
-}
 div{
-    background-color: orangered;
+    background-color: orange;
 }
